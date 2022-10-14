@@ -1,3 +1,5 @@
+// Version Clang 8 / C18
+
 int digital_root(int number) {
   int sum_digits = 0;
   int temporal = 0;
