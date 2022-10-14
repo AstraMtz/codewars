@@ -1,3 +1,5 @@
+; Version 1.8.0
+
 (ns digital-root)
 
 (defn digital-root [number]
