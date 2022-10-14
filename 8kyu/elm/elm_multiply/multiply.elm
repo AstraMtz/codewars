@@ -1,3 +1,5 @@
+{- Version 0.19 -}
+
 module MultiplyBugFix exposing (..)
 
 multiply : Int -> Int -> Int
