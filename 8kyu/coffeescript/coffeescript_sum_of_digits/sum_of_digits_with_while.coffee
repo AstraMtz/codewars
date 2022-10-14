@@ -1,3 +1,5 @@
+#version 1.10.0
+
 digital_root = (number)->
   sum_digits = number
   while sum_digits >= 10
