@@ -1,3 +1,5 @@
+-- Version 2.6.2
+
 {-# OPTIONS --safe #-}
 module Solution where
 
