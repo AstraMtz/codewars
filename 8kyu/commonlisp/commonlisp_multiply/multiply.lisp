@@ -1,3 +1,5 @@
+; Version SBCL 2.0
+
 (defpackage #:challenge/solution
   (:use #:cl)
   (:export #:multiply))
