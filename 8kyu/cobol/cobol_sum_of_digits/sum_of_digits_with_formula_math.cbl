@@ -1,3 +1,5 @@
+      *Version 3.1 (IBM)   
+      
        IDENTIFICATION DIVISION.
        PROGRAM-ID. DIGITAL-ROOT.
        DATA DIVISION.
