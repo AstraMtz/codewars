@@ -1,3 +1,5 @@
+      *Version 3.1 (IBM)
+      
        identification division.
        program-id. f01-mult.
        data division.
