@@ -1,3 +1,5 @@
+! Version 0.98
+
 USING: math ;
 IN: multiplier
 
