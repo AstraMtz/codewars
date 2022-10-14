@@ -1,3 +1,5 @@
+% Version 20
+
 -module(bug_fix).
 -export([multiply/2]).
 
