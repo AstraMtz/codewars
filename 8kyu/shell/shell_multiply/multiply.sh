@@ -1,3 +1,5 @@
+# Version bash
+
 #!/bin/bash -e
 a=$1
 b=$2
