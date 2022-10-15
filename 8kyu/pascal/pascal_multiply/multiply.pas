@@ -1,3 +1,5 @@
+// Version 3.2
+
 unit BugFixMultiply;
 
 {$mode objfpc}{$H+}
